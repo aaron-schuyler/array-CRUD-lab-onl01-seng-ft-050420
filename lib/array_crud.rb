@@ -1,7 +1,7 @@
 def create_an_empty_array
- arr []
+ arr = []
 end
- arr [1,2,3,4]
+ arr = [1,2,3,4]
 def create_an_array
   
 end
